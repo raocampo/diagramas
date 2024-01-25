@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T16:30:05.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="esl6Uy2ytZtSfaW115me" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T17:24:01.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="JyWOsCiuxzgB17XxZITn" version="23.0.2" type="github">
   <diagram name="Página-1" id="hAcrEKS_ZkMXWYpU6yQQ">
     <mxGraphModel dx="1217" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -62,8 +62,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L05xqX4xK244FlBZByql-14" value="DATOS PARA&amp;nbsp; REGISTRAR USUARIO&lt;br&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Nombre:&lt;br&gt;Apellidos:&lt;br&gt;Genero:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Correo-e&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;# Telefónico:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="L05xqX4xK244FlBZByql-14" value="DATOS PARA&amp;nbsp; REGISTRAR USUARIO&lt;br&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;Nombre:&lt;br&gt;Apellidos:&lt;br&gt;Genero:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Correo-e&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;# Telefónico:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;SELECCIONAR OPCIÓN =&amp;gt; TIPO DE USUARIO&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="286" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="L05xqX4xK244FlBZByql-15" value="TIPO DE USUARIO&lt;br&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;- ORGANIZADOR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- REPRESENTANTE EQUIPO&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- PLANILLADOR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- ARBITRO&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- JUGADOR&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="323" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
