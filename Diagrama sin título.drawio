@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T15:34:24.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" version="23.0.2" etag="sOhv8qhNcgbiBkwTW2G1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T15:45:38.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="HBrMGRpsxmimOHw9AMWj" version="23.0.2" type="github">
   <diagram name="Página-1" id="hAcrEKS_ZkMXWYpU6yQQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1173" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L05xqX4xK244FlBZByql-1" value="USUARIOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L05xqX4xK244FlBZByql-3" value="SUPERADMIN&lt;br&gt;(ORGANIZADOR &lt;br&gt;CREA - EDITA - ELIMINA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L05xqX4xK244FlBZByql-4" value="NIVEL - 1&lt;br&gt;(ARBITRO / PLANILLADOR&lt;br&gt;SOLO INGRESA DATOS&lt;br&gt;DE PLANILLA POR&amp;nbsp; PARTIDO)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L05xqX4xK244FlBZByql-5" value="NIVEL - 2&lt;br&gt;(DIRECTIVO / CAPITÁN/REPRESENTANTE EQUIPO&lt;br&gt;SOLO PUEDE INSCRIBIR JUGADORES Y VISUALIZAR LO DEMÁS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L05xqX4xK244FlBZByql-6" value="NIVEL - 3&lt;br&gt;(JUGADOR SE REGISTRA Y&lt;br&gt;&amp;nbsp;SOLO PUEDE OBSERVAR LOS DEMÁS DATOS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="485" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="L05xqX4xK244FlBZByql-7" value="NIVEL - 4&lt;br&gt;(EXPECTADOR&lt;br&gt;SOLO PUEDE VISUALIZAR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="200" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
